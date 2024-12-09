@@ -1,0 +1,8 @@
+# Ignorar datasets grandes
+*.csv
+*.xlsx
+
+# Ignorar archivos del entorno
+*.env
+__pycache__/
+*.pkl
